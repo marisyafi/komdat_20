@@ -84,13 +84,13 @@ $ rsync -avzP my.server.com:/var/www/shaarli/data/datastore.php datastore-$(date
 - Tampilan aplikasi web
 
 Tampilan Home
-![picture](http://imgur.com/a/elXe9)
+![](http://1.bp.blogspot.com/-Ets4-uR9GTk/WODerPC-i4I/AAAAAAAACrM/Jl9tvADTseoZWMBttEVvCeOz22fBsgZVwCK4B/s1600/home.png)
 
 Tampilan Daily
-![picture](http://tinypic.com/r/2rh4lj7/9)
+![](http://2.bp.blogspot.com/-pxQIxvEfpK0/WODevCKPz3I/AAAAAAAACrU/8ZmHZZ_Jm30CVnd91u2T3so0WQZX-At6QCK4B/s1600/daily.png)
 
 Tampilan Add Link
-![picture](http://tinypic.com/r/i6w2hk/9)
+![](http://4.bp.blogspot.com/-4qYckPXehHY/WODeq91OLxI/AAAAAAAACrE/7xv7ws6CMuo7b4HlqrbKsoqZ-UTsLgxjACK4B/s1600/add%2Blink.png)
 
 - Fungsi-fungsi utama
 
@@ -98,15 +98,15 @@ Menambahkan Link
 
 Kita dapat dengan mudah menambahkan link yang ingin kita share di Shaarli, cukup dengan membuka halaman “Add Link”.  Lalu menambahkan link yang ingin disimpan atau di share dan klik button Add link.
 
-![picture](http://tinypic.com/r/w83top/9)
+![](http://3.bp.blogspot.com/-F0CDg_q_KpI/WODeqHSkkFI/AAAAAAAACqs/KmFVtc5r1R8rLnuqME8KlaOSkdgT9FDLgCK4B/s1600/4.png)
 
 Setelah klik button Add link kita dapat menambahkan deskripsi mengenai link yang kita tambahkan.
 
-![picture](http://tinypic.com/r/jq3o7q/9)
+![](http://4.bp.blogspot.com/-evpFPMDKOjk/WODeql5fjII/AAAAAAAACq0/p_NL0eASG4MeZGN8Ir8G4rMugBsAQ2kcACK4B/s1600/5.png)
 
 Tampilan setelah di publish
 
-![picture](http://tinypic.com/r/n6oygp/9)
+![](http://2.bp.blogspot.com/-mHgRwUIeZZA/WODeq6cgkXI/AAAAAAAACq8/AfOyLmbGfMAycWN3KoeineVFTxf5JvVngCK4B/s1600/6.png)
 
 
 ## Pembahasan
