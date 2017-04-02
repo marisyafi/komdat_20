@@ -28,7 +28,7 @@ Untuk melakukan instalasi Shaarli pada *virtual private server* (VPS) diperlukan
 1. MySQL 5.2+
 1. PHP 5.3.6+ (GD lib, XML lib, FreeType installed)
 
-Berikut cara menginstal aplikasi web “Shaarli” pada* virtual private server* (VPS) berbasis Linux pada CLI:
+Berikut cara menginstal aplikasi web “Shaarli” pada *virtual private server* (VPS) berbasis Linux pada CLI:
 
 #### Instal Apache, MySQL, PHP
 
