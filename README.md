@@ -84,27 +84,27 @@ $ rsync -avzP my.server.com:/var/www/shaarli/data/datastore.php datastore-$(date
 - Tampilan aplikasi web
 
 Tampilan Home
-![alt](E:\slide_kuliah\smt6\komdat\home.png "home")
+![](http://tinypic.com/r/2lbe1wn/9)
 
 Tampilan Daily
-![alt](E:\slide_kuliah\smt6\komdat\daily.png "daily")
+![](http://tinypic.com/r/2rh4lj7/9)
 
 Tampilan Add Link
-![alt](E:\slide_kuliah\smt6\komdat\add link.png "add link")
+![](http://tinypic.com/r/i6w2hk/9)
 
 - Fungsi-fungsi utama
 Menambahkan Link
 Kita dapat dengan mudah menambahkan link yang ingin kita share di Shaarli, cukup dengan membuka halaman “Add Link”.  Lalu menambahkan link yang ingin disimpan atau di share dan klik button Add link.
 
-![alt](E:\slide_kuliah\smt6\komdat\4.png "4")
+![alt](http://tinypic.com/r/w83top/9)
 
 Setelah klik button Add link kita dapat menambahkan deskripsi mengenai link yang kita tambahkan.
 
-![alt](E:\slide_kuliah\smt6\komdat\5.png "5")
+![alt](http://tinypic.com/r/jq3o7q/9)
 
 Tampilan setelah di publish
 
-![alt](E:\slide_kuliah\smt6\komdat\6.png "6")
+![alt](http://tinypic.com/r/n6oygp/9)
 
 
 ## Pembahasan
@@ -140,7 +140,10 @@ Tampilan setelah di publish
 ## Referensi
 
 https://github.com/shaarli/Shaarli
+_ _ _
 https://github.com/shaarli/Shaarli/wiki/FAQ
+_ _ _
 https://shaarlidemo.tuxfamily.org/
+_ _ _
 https://www.diigo.com/
 
