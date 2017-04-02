@@ -84,7 +84,7 @@ $ rsync -avzP my.server.com:/var/www/shaarli/data/datastore.php datastore-$(date
 - Tampilan aplikasi web
 
 Tampilan Home
-![picture](http://tinypic.com/r/2lbe1wn/9)
+![picture](http://imgur.com/a/elXe9)
 
 Tampilan Daily
 ![picture](http://tinypic.com/r/2rh4lj7/9)
