@@ -83,13 +83,13 @@ $ rsync -avzP my.server.com:/var/www/shaarli/data/datastore.php datastore-$(date
 
 - Tampilan aplikasi web
 
-Tampilan Home
+**Tampilan Home**
 ![](http://1.bp.blogspot.com/-Ets4-uR9GTk/WODerPC-i4I/AAAAAAAACrM/Jl9tvADTseoZWMBttEVvCeOz22fBsgZVwCK4B/s1600/home.png)
 
-Tampilan Daily
+**Tampilan Daily**
 ![](http://2.bp.blogspot.com/-pxQIxvEfpK0/WODevCKPz3I/AAAAAAAACrU/8ZmHZZ_Jm30CVnd91u2T3so0WQZX-At6QCK4B/s1600/daily.png)
 
-Tampilan Add Link
+**Tampilan Add Link**
 ![](http://4.bp.blogspot.com/-4qYckPXehHY/WODeq91OLxI/AAAAAAAACrE/7xv7ws6CMuo7b4HlqrbKsoqZ-UTsLgxjACK4B/s1600/add%2Blink.png)
 
 - Fungsi-fungsi utama
